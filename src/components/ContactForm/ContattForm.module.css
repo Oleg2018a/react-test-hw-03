@@ -1,0 +1,20 @@
+.form{
+    padding-left: 15px;
+    padding-top: 15px;
+}
+.label{
+    display: block;
+    margin-bottom: 10px;
+}
+.input{
+margin-bottom: 10px;
+}
+.buttonAdd{
+display: block;
+ background-color:#5050ea;
+    color: #fff;
+    border:none; 
+    border-radius:10px; 
+    padding:10px;
+    cursor: pointer;
+}

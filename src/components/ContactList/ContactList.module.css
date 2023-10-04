@@ -1,0 +1,21 @@
+.list{
+font-size: 18px;
+}
+.item{
+    margin-bottom: 5px;
+
+
+}
+.item:last-child{
+    margin-bottom: 0;
+}
+.button{
+    margin-left: 15px;
+        background-color:#0a0a23;
+    color: #fff;
+    border:none; 
+    border-radius:10px; 
+    padding:5px;
+    cursor: pointer;
+}
+    
